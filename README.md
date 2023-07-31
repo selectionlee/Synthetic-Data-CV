@@ -1,1 +1,2 @@
-# synthetic-data-cv
+# 합성데이터 기반 객체 탐지 AI 경진대회
+## 주최: 비솔(VISOL) / 주관: 데이콘 
